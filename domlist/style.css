@@ -1,0 +1,7 @@
+.display-class{
+    display: none;
+}
+
+.display-complete{
+    text-decoration: line-through;
+}
